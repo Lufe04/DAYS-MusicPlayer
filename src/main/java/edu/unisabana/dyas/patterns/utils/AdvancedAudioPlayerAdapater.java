@@ -1,6 +1,6 @@
 package edu.unisabana.dyas.patterns.utils;
 
-import main.java.edu.unisabana.dyas.patterns.utils.AudioPlayer;
+import edu.unisabana.dyas.patterns.utils.AudioPlayer;
 
 public class AdvancedAudioPlayerAdapater implements AudioPlayer{
     private final AdvancedAudioPlayer audio;
